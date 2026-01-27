@@ -1,0 +1,89 @@
+================================================================================
+                        GRADIENT DESCENT WEIGHTS
+================================================================================
+
+--------------------------------------------------------------------------------
+                            PRIMARY MODEL (39 WEIGHTS)
+--------------------------------------------------------------------------------
+
+MAPPING PARAMETERS
+    D                      :  127.2600
+    S                      :    7.4900
+
+ACCURACY BUCKETS
+    min                    :  -17.2612
+    low                    :   -8.1333
+    mid                    :    7.3413
+    high                   :   28.6532
+    max                    :   15.5856
+    accuracy               :    6.6551
+
+MISS PENALTIES
+    minMiss                :    4.7857
+    lowMiss                :   -2.2275
+    midMiss                :    6.8171
+    highMiss               :    2.8552
+    maxMiss                :   -7.0497
+
+PRESSURE METRICS
+    pressureDistance       :    4.5390
+    pressureMovement       :   -0.2982
+    pressurePosition       :    0.3839
+
+AGGRESSION
+    aggressionCombinations :   -4.7571
+    aggressionExchanges    :   -2.8385
+    aggressionPower        :   22.3832
+
+PUNCH GROUPINGS
+    singles                :   -1.2498
+    doubles                :   -0.4191
+    triples                :    0.9644
+    quadsPlus              :    0.9642
+
+RANGE
+    outside                :    1.6590
+    midrange               :    6.1256
+    inside                 :   -8.5284
+
+FOOTWORK
+    clinch                 :    0.9456
+    backfoot               :   -3.4400
+    neutral                :   11.4975
+    frontfoot              :   -8.5853
+
+STANCE
+    southpaw               :    0.8369
+    squared                :   -1.6195
+    orthodox               :   -0.1227
+
+HAND
+    lead                   :    5.8066
+    rear                   :    7.1966
+
+TARGET
+    head                   :   10.0377
+    body                   :   -0.6818
+
+PUNCH TYPE
+    straights              :    3.7103
+    hooks                  :   10.3596
+    overhands              :   -3.4949
+    uppercuts              :    5.9154
+
+--------------------------------------------------------------------------------
+                           SECONDARY MODEL (7 WEIGHTS)
+--------------------------------------------------------------------------------
+
+MAPPING PARAMETERS
+    D                      :    5.5519
+    S                      :    7.7252
+
+FEATURE WEIGHTS
+    head                   :    5.7460
+    highImpact             :   16.1013
+    aggressionPower        :    6.1329
+    neutral                :    4.5633
+    inside                 :   -0.9297
+
+================================================================================
