@@ -1,6 +1,9 @@
 # Interpretable Prediction and Large-Scale Analysis of Judging in Professional Boxing
 
-**MIT Sloan Sports Analytics Conference Research Paper Competition Submission**
+**MIT Sloan Sports Analytics Conference Research Paper Competition Finalist**
+
+**[Video](https://www.youtube.com/watch?v=v9RRkwaDtQE)    [Paper](https://www.sloansportsconference.com/research-papers/interpretable-prediction-and-large-scale-analysis-of-judging-in-professional-boxing)    [Poster](https://duboef.com/duBoefSSACPoster.pdf)**
+
 
 ## Paper Summary
 
